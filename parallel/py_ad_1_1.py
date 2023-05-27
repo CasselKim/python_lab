@@ -20,7 +20,7 @@ if __name__ == "__main__":
 
     x.start()
 
-    # Wait for sub thread
+    # Wait for Sub thread
     # x.join()
 
     logging.info("Main Thread: wait for the thread to finish")
